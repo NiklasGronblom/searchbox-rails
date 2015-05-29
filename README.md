@@ -7,7 +7,7 @@ searchbox-rails wraps a fork of rpheath's searchbox.js to use with the asset pip
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'searchbox-rails', github:NiklasGronblom/searchbox-rails
+gem 'searchbox-rails', github:'NiklasGronblom/searchbox-rails'
 ```
 
 And then execute:
